@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/ImageForNS.png</file>
+        <file>img/Warning_icon.png</file>
+        <file>img/SleepDisabler.bmp</file>
+    </qresource>
+</RCC>
